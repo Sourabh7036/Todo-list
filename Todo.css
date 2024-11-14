@@ -1,0 +1,11 @@
+.Todolist{
+     position: relative;
+     left: 40px;
+}
+.list_item{
+     background-color: lightcyan;
+     width: 400px;
+     padding: 10px;
+     margin-top: 10px;
+     font-size: larger;
+}
